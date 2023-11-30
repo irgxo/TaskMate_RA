@@ -28,11 +28,9 @@ Upon installation, users can open the app to gain access to their to-do list and
 By clicking on "Daily Tasks and Priorities," users can promptly commence their TaskMate pursuits, optimizing their time management and task accomplishment.
 TaskMate epitomizes a dependable ally in achieving personal organization without sacrificing individuality. By offering a seamless interface and robust features, users can confidently depend on TaskMate to align with their ambitions and intelligently manage their time.
 
-Contributors
-
-	 رغد حسان
+Contributors:
+Raghad Hassan Mohammed Asiri
 
 to contact us
-
 444816079@kku.edu.sa
 
